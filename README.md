@@ -382,6 +382,21 @@ Error: API Request Failed.
 
 ---
 
+### Attached Screenshots
+
+1. Main Email Content
+   <img width="1706" height="846" alt="image" src="https://github.com/user-attachments/assets/4f13785b-566c-4624-a8f4-d43e40b68faa" />
+
+2. Click on reply button and a dialogue button will be appeared with AI-reply button
+   <img width="1500" height="737" alt="image" src="https://github.com/user-attachments/assets/67dadafe-6528-43d6-b47d-4729122b88b7" />
+
+3. Click on AI-Reply button, it will make a API call to backend to generate a reply
+   <img width="1513" height="815" alt="image" src="https://github.com/user-attachments/assets/30a1d648-541d-4ffa-ada8-7c2be72ce7d8" />
+
+4. Final Reply Content
+   <img width="1550" height="747" alt="image" src="https://github.com/user-attachments/assets/1f338005-11d4-4194-81c1-02e190f7be6a" />
+
+
 ## License
 
 This project is open source and available for personal and educational use.
